@@ -2,6 +2,7 @@
 
 examples
 
-input Ghbdtn
+input Ghbdtn? rfr ltkf& output Привет, как дела?
 
-output Привет
+input Руддщь рщц фку нщг вщштп, output Hello, how are you doing?
+
